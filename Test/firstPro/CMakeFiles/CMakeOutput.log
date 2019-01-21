@@ -1,0 +1,77 @@
+The system is: Windows - 10.0.16299 - AMD64
+Compiling the CSharp compiler identification source file "CMakeCSharpCompilerId.cs" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+ÓÃÓÚ .NET Framework µÄ Microsoft (R) Éú³ÉÒıÇæ°æ±¾ 15.7.177.53362
+°æÈ¨ËùÓĞ(C) Microsoft Corporation¡£±£ÁôËùÓĞÈ¨Àû¡£
+
+Éú³ÉÆô¶¯Ê±¼äÎª 2019/1/21 ĞÇÆÚÒ» 14:42:36¡£
+½Úµã 1 ÉÏµÄÏîÄ¿¡°D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\CompilerIdCSharp.csproj¡±(Ä¬ÈÏÄ¿±ê)¡£
+PrepareForBuild:
+  ÕıÔÚ´´½¨Ä¿Â¼¡°obj\Win32\Debug\¡±¡£
+GenerateTargetFrameworkMonikerAttribute:
+ÕıÔÚÌø¹ıÄ¿±ê¡°GenerateTargetFrameworkMonikerAttribute¡±£¬ÒòÎªËùÓĞÊä³öÎÄ¼şÏà¶ÔÓÚÊäÈëÎÄ¼ş¶øÑÔ¶¼ÊÇ×îĞÂµÄ¡£
+CoreCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /define:PlatformWin32;PlatformToolsetv141 /highentropyva- /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /debug+ /out:obj\Win32\Debug\CompilerIdCSharp.exe /ruleset:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Static Analysis Tools\\Rule Sets\MinimumRecommendedRules.ruleset" /target:exe /utf8output CMakeCSharpCompilerId.cs "C:\Users\Administrator\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cs"
+  ¶ÔÀ´×ÔºóÁĞÄ¿Â¼µÄ±àÒëÆ÷Ê¹ÓÃ¹²Ïí±àÒë: D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn
+CopyFilesToOutputDirectory:
+  ÕıÔÚ½«ÎÄ¼ş´Ó¡°obj\Win32\Debug\CompilerIdCSharp.exe¡±¸´ÖÆµ½¡°.\CompilerIdCSharp.exe¡±¡£
+  CompilerIdCSharp -> D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\CompilerIdCSharp.exe
+  ÕıÔÚ½«ÎÄ¼ş´Ó¡°obj\Win32\Debug\CompilerIdCSharp.pdb¡±¸´ÖÆµ½¡°.\CompilerIdCSharp.pdb¡±¡£
+PostBuildEvent:
+  if not "D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn"=="" if exist "D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe" set _CSC=D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn
+  if exist "D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\csc.exe" set _CSC=D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin
+  if "%_CSC%"=="" exit -1
+  @echo CMAKE_CSharp_COMPILER=%_CSC%\csc.exe
+  CMAKE_CSharp_COMPILER=D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe
+ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\CompilerIdCSharp.csproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷¡£
+
+ÒÑ³É¹¦Éú³É¡£
+    0 ¸ö¾¯¸æ
+    0 ¸ö´íÎó
+
+ÒÑÓÃÊ±¼ä 00:00:00.51
+
+
+Compilation of the CSharp compiler identification source "CMakeCSharpCompilerId.cs" produced "CompilerIdCSharp.csproj"
+
+Compilation of the CSharp compiler identification source "CMakeCSharpCompilerId.cs" produced "CompilerIdCSharp.exe"
+
+Compilation of the CSharp compiler identification source "CMakeCSharpCompilerId.cs" produced "CompilerIdCSharp.pdb"
+
+The CSharp compiler identification is Microsoft Visual Studio, found in "D:/MyDir/Unity_Manage/Project/create-wpf-project/Test/firstPro/CMakeFiles/3.10.1/CompilerIdCSharp/CompilerIdCSharp.exe"
+
+Determining if the C# compiler works passed with the following output:
+Change Dir: D:/MyDir/Unity_Manage/Project/create-wpf-project/Test/firstPro/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_fbb94.csproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+ç”¨äº .NET Framework çš„ Microsoft (R) ç”Ÿæˆå¼•æ“ç‰ˆæœ¬ 15.7.177.53362
+ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+
+ç”Ÿæˆå¯åŠ¨æ—¶é—´ä¸º 2019/1/21 æ˜ŸæœŸä¸€ 14:42:37ã€‚
+èŠ‚ç‚¹ 1 ä¸Šçš„é¡¹ç›®â€œD:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\CMakeTmp\cmTC_fbb94.csprojâ€(é»˜è®¤ç›®æ ‡)ã€‚
+PrepareForBuild:
+  æ­£åœ¨åˆ›å»ºç›®å½•â€œD:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\CMakeTmp\Debug\â€ã€‚
+  æ­£åœ¨åˆ›å»ºç›®å½•â€œobj\Win32\Debug\â€ã€‚
+GenerateTargetFrameworkMonikerAttribute:
+æ­£åœ¨è·³è¿‡ç›®æ ‡â€œGenerateTargetFrameworkMonikerAttributeâ€ï¼Œå› ä¸ºæ‰€æœ‰è¾“å‡ºæ–‡ä»¶ç›¸å¯¹äºè¾“å…¥æ–‡ä»¶è€Œè¨€éƒ½æ˜¯æœ€æ–°çš„ã€‚
+CoreCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /platform:x64 /errorreport:prompt /warn:3 /define:TRACE;DEBUG /highentropyva- /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /debug+ /debug:full /optimize- /out:obj\Win32\Debug\cmTC_fbb94.exe /ruleset:"D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Static Analysis Tools\\Rule Sets\MinimumRecommendedRules.ruleset" /target:exe /utf8output /langversion:3 D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\CMakeTmp\testCSharpCompiler.cs "C:\Users\Administrator\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cs"
+  å¯¹æ¥è‡ªååˆ—ç›®å½•çš„ç¼–è¯‘å™¨ä½¿ç”¨å…±äº«ç¼–è¯‘: D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn
+CopyFilesToOutputDirectory:
+  æ­£åœ¨å°†æ–‡ä»¶ä»â€œobj\Win32\Debug\cmTC_fbb94.exeâ€å¤åˆ¶åˆ°â€œD:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\CMakeTmp\Debug\cmTC_fbb94.exeâ€ã€‚
+  cmTC_fbb94 -> D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\CMakeTmp\Debug\cmTC_fbb94.exe
+  æ­£åœ¨å°†æ–‡ä»¶ä»â€œobj\Win32\Debug\cmTC_fbb94.pdbâ€å¤åˆ¶åˆ°â€œD:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\CMakeTmp\Debug\cmTC_fbb94.pdbâ€ã€‚
+å·²å®Œæˆç”Ÿæˆé¡¹ç›®â€œD:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\CMakeTmp\cmTC_fbb94.csprojâ€(é»˜è®¤ç›®æ ‡)çš„æ“ä½œã€‚
+
+å·²æˆåŠŸç”Ÿæˆã€‚
+    0 ä¸ªè­¦å‘Š
+    0 ä¸ªé”™è¯¯
+
+å·²ç”¨æ—¶é—´ 00:00:00.28
+
+

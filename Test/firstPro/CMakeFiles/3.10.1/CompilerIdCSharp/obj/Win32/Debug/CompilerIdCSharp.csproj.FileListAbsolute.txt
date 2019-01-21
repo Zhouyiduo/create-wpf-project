@@ -1,0 +1,6 @@
+D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\obj\Win32\Debug\CompilerIdCSharp.csprojAssemblyReference.cache
+D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\obj\Win32\Debug\CompilerIdCSharp.csproj.CoreCompileInputs.cache
+D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\obj\Win32\Debug\CompilerIdCSharp.exe
+D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\obj\Win32\Debug\CompilerIdCSharp.pdb
+D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\CompilerIdCSharp.exe
+D:\MyDir\Unity_Manage\Project\create-wpf-project\Test\firstPro\CMakeFiles\3.10.1\CompilerIdCSharp\CompilerIdCSharp.pdb
