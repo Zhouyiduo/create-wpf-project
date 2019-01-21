@@ -3,12 +3,15 @@ project(Example VERSION 0.1.0 LANGUAGES CSharp)
 
 include(CSharpUtilities)
 
-add_executable(Example
+add_executable({Example}
 	App.config
 	App.xaml
 	App.xaml.cs
-	MainWindow.xaml
-	MainWindow.xaml.cs
+	View/MainWindow.xaml
+	View/MainWindow.xaml.cs
+	ViewModel/NotificationObject.cs
+	ViewModel/VmMain.cs	
+	Model/MMain.cs
 
 	Properties/AssemblyInfo.cs
 	Properties/Resources.Designer.cs
@@ -26,15 +29,15 @@ csharp_set_designer_cs_properties(
 csharp_set_xaml_cs_properties(
 	App.xaml
 	App.xaml.cs
-	MainWindow.xaml
-	MainWindow.xaml.cs)
+	View/MainWindow.xaml
+	View/MainWindow.xaml.cs)
 
 set_property(SOURCE App.xaml PROPERTY VS_XAML_TYPE "ApplicationDefinition")
 
-set_property(TARGET Example PROPERTY VS_DOTNET_TARGET_FRAMEWORK_VERSION "v4.6.1")
-set_property(TARGET Example PROPERTY WIN32_EXECUTABLE TRUE)
+set_property(TARGET {Example} PROPERTY VS_DOTNET_TARGET_FRAMEWORK_VERSION "v4.6.1")
+set_property(TARGET {Example} PROPERTY WIN32_EXECUTABLE TRUE)
 
-set_property(TARGET Example PROPERTY VS_DOTNET_REFERENCES
+set_property(TARGET {Example} PROPERTY VS_DOTNET_REFERENCES
 	"Microsoft.CSharp"
 	"PresentationCore"
 	"PresentationFramework"
